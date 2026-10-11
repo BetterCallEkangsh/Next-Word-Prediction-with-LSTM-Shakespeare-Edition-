@@ -163,4 +163,4 @@ GitHub: [@BetterCallEkangsh](https://github.com/BetterCallEkangsh)
 
 ## 📄 License
 
-Add a license of your choice (e.g., MIT). *Hamlet's text is in the public domain via Project Gutenberg.*
+*Hamlet's text is in the public domain via Project Gutenberg.*
